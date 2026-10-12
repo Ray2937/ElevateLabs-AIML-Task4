@@ -1,7 +1,7 @@
 # Task 4: Classification with Logistic Regression (Breast Cancer Prediction)
 
 ## Overview
-This repository contains the solution for Task 4 of the AIML Internship at Elevate Labs[cite: 3]. The objective of this task is to build a binary classification model using Logistic Regression[cite: 3], evaluate its performance using advanced classification metrics, and visualize the results[cite: 3].
+This repository contains the solution for Task 4 of the AIML Internship at Elevate Labs. The objective of this task is to build a binary classification model using Logistic Regression, evaluate its performance using advanced classification metrics, and visualize the results.
 
 ## Files Included
 - `task4.py`: The complete Python script for data preprocessing, scaling, model training, evaluation, and plotting.
